@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi there, I'm Mateusz 👋
 
-<!--
-**MatthewJakubowski/MatthewJakubowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Medical Analyst (15y) ➡️ AI Engineer & Python Developer**
+I turned my laboratory discipline into code efficiency. Currently building adaptive learning systems and AI agents entirely on a mobile ecosystem.
 
-Here are some ideas to get you started:
+#### 🧬 The #FromPipetteToPython Project
+My journey from biological systems to digital neural networks.
+* **Core Philosophy:** Active Recall & Engineering over "Magic Prompts".
+* **Hardware:** 100% Samsung DeX (Galaxy Tab S11 Ultra).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🤖 My AI Stack (The Gems)
+I build custom Gemini Agents to accelerate learning and deployment:
+* `Neuro-Python` - Code Logic & Optimization
+* `Neuro-Architect` - System Design & Engineering
+* `Genesis Protocol` - Advanced Reasoning Framework
+* `English Master Mentor` - Language & Knowledge Integration
+
+#### 📫 Connect with me
+* **X (Twitter):** [@M_S_Jakubowski](https://x.com/M_S_Jakubowski)
+* **LinkedIn:** [mateuszjakubowski](https://linkedin.com/in/mateuszjakubowski)
+
