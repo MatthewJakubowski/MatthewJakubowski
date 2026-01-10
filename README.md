@@ -103,7 +103,7 @@ I operate within a custom ecosystem of **6 Specialized Gemini Agents**, structur
 ### 🔭 Current Focus & Repositories
 
 * **[python-learning-path](https://github.com/MatthewJakubowski/python-learning-path)**
-    *My road to mastery. Projects built under the strict supervision of Neuro-Python and The Genesis Protocol.*
+    *My road to mastery. Projects built under the strict supervision of the experimental **Genesis v1.0** & **Neuro-Python** protocols, now evolving within the **Trinity v2.0** ecosystem guided by **The Mentor** & **The Architect**.*
 
 * **[axiom-protocol](https://github.com/MatthewJakubowski/axiom-protocol)**
     *A theoretical framework for Truth Verification (AI-Assisted Learning Project).*
