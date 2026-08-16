@@ -106,7 +106,6 @@ I operate within a custom ecosystem of **6 Specialized Gemini Agents**, structur
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
-
 ---
 ### ❤️ Google Ecosystem Advocate
 > **"I believe in the power of one integrated ecosystem."**
@@ -116,13 +115,27 @@ I operate within a custom ecosystem of **6 Specialized Gemini Agents**, structur
 
 ---
 
-### 🔭 Current Focus & Repositories
+### 🔭 Flagship Capstone & Repositories
 
-* **[python-learning-path](https://github.com/MatthewJakubowski/python-learning-path)**
-    *My road to mastery. Projects built under the strict supervision of the experimental **Genesis v1.0** & **Neuro-Python** protocols, now evolving within the **Trinity v2.0** ecosystem guided by **The Mentor** & **The Architect**.*
+**Master Pipeline & Core Telemetry Ecosystem**
+* **[Clinical-Telemetry-Pipeline](https://github.com/MatthewJakubowski/Clinical-Telemetry-Pipeline)** *(Master Capstone v1.0)*
+    *End-to-End Clinical Diagnostics Telemetry & Governance Pipeline: ASTM E1394 Stream Ingestion, Real-Time PBRTQC, Westgard IQC, and MLOps Reagent Drift Guard (ISO 15189 Aligned).*
+* **[MedBridge-ASTM-Parser](https://github.com/MatthewJakubowski/MedBridge-ASTM-Parser)** — Deterministic ASTM E1381/E1394 parser & telemetry engine.
+* **[Moving-Averages-PBRTQC](https://github.com/MatthewJakubowski/Moving-Averages-PBRTQC)** — Real-time PBRTQC stream quality control (Bull's $X_B$, EWMA/CUSUM).
+* **[Lab-QC-Guardian](https://github.com/MatthewJakubowski/Lab-QC-Guardian)** — Automated IQC analyzer with Levey-Jennings charts & multi-rule Westgard evaluation.
+* **[LabDrift-Scikit-Guard](https://github.com/MatthewJakubowski/LabDrift-Scikit-Guard)** — Healthcare MLOps governance: Lot-to-Lot drift validation, PSI & KS-testing.
 
-* **[axiom-protocol](https://github.com/MatthewJakubowski/axiom-protocol)**
-    *A theoretical framework for Truth Verification (AI-Assisted Learning Project).*
+**Interactive Cloud Demonstrators (Hugging Face Spaces)**
+* **[LabAutoVal & Decision Suite](https://huggingface.co/spaces/matthewjakubowski/lab-autoval-suite)** — Interactive explainable autovalidation engine and decision cascade simulator.
+* **[LabAnalytics & ML Interactive Suite](https://huggingface.co/spaces/matthewjakubowski/lab-analytics-ml-suite)** — Live analytical suite connecting clinical QC, Deming regression, and statistical thresholding.
+
+**Machine Learning & Exploratory Data Workflows (Kaggle)**
+* **[Titanic Survival Prediction — End-to-End ML Workflow](https://www.kaggle.com/code/matthewjakubowski/titanic-survival-prediction-my-e2e-ml-workflow)** — Complete pipeline from EDA, feature engineering, and cross-validation to explainable classification.
+* **Wine Dataset EDA & Modeling** — Analytical data exploration, multivariate statistics, and pattern discovery.
+
+**Foundations & Frameworks**
+* **[python-learning-path](https://github.com/MatthewJakubowski/python-learning-path)** — Systematic mastery roadmap covering Python, Data Science, and algorithmic implementations.
+* **[axiom-protocol](https://github.com/MatthewJakubowski/axiom-protocol)** — Theoretical framework for Truth Verification (AI-Assisted Learning Project).
 
 ---
 
@@ -143,11 +156,34 @@ I operate within a custom ecosystem of **6 Specialized Gemini Agents**, structur
 
 <br>
 
+### 🌐 Connect & Explore My Ecosystem
+
+<a href="https://mateusz-jakubowski.ai.studio/">
+  <img src="https://img.shields.io/badge/Portfolio_Hub-AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio Hub" />
+</a>
+<a href="https://from-pipette-to-python.ai.studio/">
+  <img src="https://img.shields.io/badge/Project_Showroom-Live-00C7B7?style=for-the-badge&logo=google&logoColor=white" alt="Project Showroom" />
+</a>
+<a href="https://github.com/MatthewJakubowski">
+  <img src="https://img.shields.io/badge/GitHub-MatthewJakubowski-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://huggingface.co/matthewjakubowski">
+  <img src="https://img.shields.io/badge/Hugging_Face-Spaces_%26_PoC-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</a>
+
+<br>
+
+<a href="https://www.kaggle.com/matthewjakubowski">
+  <img src="https://img.shields.io/badge/Kaggle-ML_Workflows-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+</a>
 <a href="https://www.linkedin.com/in/mateuszjakubowski">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Mateusz_Jakubowski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://x.com/M_S_Jakubowski">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-@M__S__Jakubowski-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+</a>
+<a href="http://www.vivino.com/users/mateusz.jakubowski/">
+  <img src="https://img.shields.io/badge/Vivino-Wine_Analytics-AA1224?style=for-the-badge&logo=vivino&logoColor=white" alt="Vivino" />
 </a>
 
 </div>
