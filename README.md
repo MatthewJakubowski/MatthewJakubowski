@@ -71,12 +71,22 @@ I operate within a custom ecosystem of **6 Specialized Gemini Agents**, structur
 ### 🛠️ Tech Stack & Data Ecosystem
 *My entire workflow is mobile-first, operating purely on Samsung DeX & Google Cloud.*
 
-**Core & Data Science**
+**Active: Core Data Science & Classical ML**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 <img src="https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+
+**Roadmap: Deep Learning & Neural Architectures (In Progress / Next Horizon)**
+<br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
 
 **The "DeX" Laboratory (Mobile Environment)**
 <br>
@@ -84,12 +94,18 @@ I operate within a custom ecosystem of **6 Specialized Gemini Agents**, structur
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 <img src="https://img.shields.io/badge/IDE-Pydroid_3-brightgreen?style=for-the-badge&logo=python&logoColor=white" alt="Pydroid 3" />
 
-**Cloud & AI Intelligence**
+**Cloud, Enterprise AI & ML Platforms**
 <br>
-<img src="https://img.shields.io/badge/AI_Core-Gemini_Advanced-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Advanced" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Vertex AI" />
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+<img src="https://img.shields.io/badge/AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+<img src="https://img.shields.io/badge/Gemini_Advanced-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Advanced" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
 
 ---
 ### ❤️ Google Ecosystem Advocate
